@@ -1,8 +1,23 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.2/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+  <a href="https://app.guillaumeisabelle.com/gixbootstrap">
+    <img src="https://raw.githubusercontent.com/GuillaumeIsabelle/.com/master/logo.png" alt="Bootstrap logo" width="72" height="72">
   </a>
 </p>
+
+# GIX's Goals with Bootstrap #
+
+## Mastery Bootstrap ##
+### Why mastering Bootstrap? ###
+## Why Creating an extension of it? ##
+
+### Structural Thinking Extension ###
+#### What is structural Thinking ####
+* What is structure within the context of bootstrap or whatever the name it will get?
+
+## Reality in relationship to this ##
+* Setting up...
+
+___
 
 <h3 align="center">Bootstrap</h3>
 
